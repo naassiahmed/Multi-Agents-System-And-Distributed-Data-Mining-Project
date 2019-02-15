@@ -19,3 +19,6 @@ compared the results to universal ensemble methods such as Boosting, Bagging, St
 Majority voting.
 - Keywords: Data Mining, Distributed Data Mining, Multi-Agents Systems, Combine
 Classifiers, Ensemble Methods, Genetic Algorithms, Neural Network, NGB Platform.
+
+
+![alt text](http://url/to/img.png)
