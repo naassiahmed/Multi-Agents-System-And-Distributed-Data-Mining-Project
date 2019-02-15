@@ -22,3 +22,7 @@ Classifiers, Ensemble Methods, Genetic Algorithms, Neural Network, NGB Platform.
 
 
 ![alt text](https://github.com/naassiahmed/Multi-Agents-System-And-Distributed-Data-Mining-Project/blob/master/ar.png)
+
+![alt text](https://github.com/naassiahmed/Multi-Agents-System-And-Distributed-Data-Mining-Project/blob/master/ar1.png)
+
+![alt text](https://github.com/naassiahmed/Multi-Agents-System-And-Distributed-Data-Mining-Project/blob/master/ar2.png)
