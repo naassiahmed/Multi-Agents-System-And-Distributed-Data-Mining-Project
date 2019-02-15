@@ -21,4 +21,4 @@ Majority voting.
 Classifiers, Ensemble Methods, Genetic Algorithms, Neural Network, NGB Platform.
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/naassiahmed/Multi-Agents-System-And-Distributed-Data-Mining-Project/blob/master/ar.png)
